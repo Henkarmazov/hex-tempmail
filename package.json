@@ -1,0 +1,9 @@
+{
+  "name": "tempmail-plus-api",
+  "version": "1.0.0",
+  "description": "Tempmail Plus API",
+  "main": "api/index.js",
+  "dependencies": {
+    "axios": "^1.12.2"
+  }
+}
